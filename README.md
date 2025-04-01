@@ -1,4 +1,4 @@
-# 👗 Fashion
+# Inventory Management
 
 A full-stack fashion-related project using **Node.js**, **MySQL**, and **Next.js**, with **Docker** for database management.
 
